@@ -18,7 +18,7 @@
 </table>
 
 <h2>What is a Bybit Referral Code?</h2>
-<p>A <strong>Bybit referral code (TOPTOP)</strong> (also known as a <strong>Bybit promo code</strong>, <strong>Bybit invite code</strong>, or <strong>Bybit affiliate link</strong>) is a special alphanumeric code that new users can enter when signing up for Bybit. It provides exclusive perks such as:</p>
+<p>A <strong>Bybit referral code (62545)</strong> (also known as a <strong>Bybit promo code</strong>, <strong>Bybit invite code</strong>, or <strong>Bybit affiliate link</strong>) is a special alphanumeric code that new users can enter when signing up for Bybit. It provides exclusive perks such as:</p>
 <ul>
         <li><strong>Bybit signup bonus</strong> for new users</li>
         <li>Reduced trading fees with a <strong>Bybit trading rewards</strong> program</li>
